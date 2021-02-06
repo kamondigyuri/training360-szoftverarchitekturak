@@ -106,3 +106,9 @@ Előrehaladás ellenőrzésére készített repository
 ### F12
 ![F12](images/08%20Web%20formátumai%20-%20HTML%20és%20CSS/05_F12.jpg)
 
+## Előrehaladás ellenőrzés
+
+### Visual Studio Code - README.md
+![Visual Studio Code - README.md](images/Visual%20Studio%20Code%20-%20README.md.jpg) 
+### CMD - Git.jpg
+![CMD - Git.jpg](images/CMD%20-%20Git.jpg)
