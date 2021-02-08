@@ -106,6 +106,38 @@ Előrehaladás ellenőrzésére készített repository
 ### F12
 ![F12](images/08%20Web%20formátumai%20-%20HTML%20és%20CSS/05_F12.jpg)
 
+## Webes alkalmazas RIA felülettel - JavaScript (gyakorlat)
+
+### Html és javascript
+![Html és javascript](images/09%20Webes%20alkalmazas%20RIA%20felülettel%20-%20JavaScript/01_html_js.jpg)
+### Index.html
+![Index.html](images/09%20Webes%20alkalmazas%20RIA%20felülettel%20-%20JavaScript/02_index.html.jpg)
+
+## Webes alkalmazas RIA felülettel - webes alkalmazas (gyakorlat)
+
+### Docker, adatbázis, my-locations
+![Docker, adatbázis, my-locations](images/10%20Webes%20alkalmazas%20RIA%20felülettel%20-%20webes%20alkalmazas/01_docker_adatbazis_my-locations.jpg)
+### Localhost 8080
+![Localhost 8080](images/10%20Webes%20alkalmazas%20RIA%20felülettel%20-%20webes%20alkalmazas/02_localhost8080.jpg)
+### Locations F12
+![Locations F12](images/10%20Webes%20alkalmazas%20RIA%20felülettel%20-%20webes%20alkalmazas/03_Locations_F12.jpg)
+
+## REST webszolgáltatások - Swagger (gyakorlat)
+
+### Swagger
+![Swagger](images/11%20REST%20webszolgáltatások%20-%20Swagger/01_swagger.jpg)
+### Create location, 201
+![Create location, 201](images/11%20REST%20webszolgáltatások%20-%20Swagger/02_create_location_201.jpg)
+
+## REST webszolgáltatások - Postman (gyakorlat)
+
+### Postman
+![Postman](images/12%20REST%20webszolgáltatások%20-%20Postman/01_Postman.jpg)
+### Postman POST
+![Postman POST](images/12%20REST%20webszolgáltatások%20-%20Postman/02_Postman_post.jpg)
+### api-docs POST
+![api-docs POST](images/12%20REST%20webszolgáltatások%20-%20Postman/03_api-docs_post.jpg)
+
 ## Előrehaladás ellenőrzés
 
 ### Visual Studio Code - README.md
